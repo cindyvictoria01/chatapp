@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project use Firebase as the database.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+This project use Firebase as database.
 
 Cindy B. Victoria (03082190011) \
 Cindy Leoni (03082190013)
