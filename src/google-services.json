@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093220063359",
+    "firebase_url": "https://uas-chattingapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-chattingapp",
+    "storage_bucket": "uas-chattingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093220063359:android:3100dfca6628543655874a",
+        "android_client_info": {
+          "package_name": "uas2022.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093220063359-ttngbj525pel6q0slh5l6slspv6jgqid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2p271Jl6gdX4k_TgXZVTeeMbPIfWdvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093220063359-ttngbj525pel6q0slh5l6slspv6jgqid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
