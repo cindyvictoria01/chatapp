@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Cindy B. Victoria (03082190011)
+Cindy Leoni (03082190013)
+
 ## Available Scripts
 
 In the project directory, you can run:
