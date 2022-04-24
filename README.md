@@ -1,6 +1,6 @@
 # chatapp
 
-made using React and Firebase
+made using React and Firebase, web platform
 
 19TI2
 Cindy B. Victoria (03082190011)
